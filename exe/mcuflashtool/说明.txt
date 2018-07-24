@@ -1,0 +1,4 @@
+将MCU的固件下载文件放于此目录,并将启动脚本名字改为start_download即可
+
+注意:start_download.bat中相应的文件路径要从sscom_main.exe文件所在目录开始,
+    因为它才是主程序，程序中的路径都是相对于sscom_main.exe来的
