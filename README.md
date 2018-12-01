@@ -2,6 +2,7 @@
 Python3+PyQt5的串口工具，具有stm32、stm8的下载功能
 
 目录结构
+```
 .
 │  debug_execute.bat                :用于程序调试的脚本，双击即可运行程序
 │  py_to_exe.bat                    :用于最后生成exe文件的脚本
@@ -30,6 +31,7 @@ Python3+PyQt5的串口工具，具有stm32、stm8的下载功能
     │
     └─ui
             dayo-sscom.ui           :使用qtDesigner软件画的界面
+```
 
 1、首先需要安装python 32bit版本（使用32bit版打包出来的程序才支持在32/64位系统上运行）
 2、打开命令行窗口，执行以下指令安装软件编写过程中所需的pack
